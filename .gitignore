@@ -1,4 +1,6 @@
 # External junk
+bin/
+bin-int/
 .DS_Store
 _ReSharper*
 *.opensdf
